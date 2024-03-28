@@ -48,7 +48,7 @@ Additionally, this study delves into ECG signal analysis, categorizing signals i
 ## Technologies and Techniques
 
 - **Data Analysis**: Employing statistical and data visualization techniques to explore correlations between heart disease risk factors.
-- 
+
 - **Machine Learning Models**: Implementing various algorithms to predict heart disease presence based on clinical and physiological features.
 
 - **ECG Signal Classification**: Utilizing machine learning to automate the categorization of ECG signals, improving diagnostic processes.
@@ -56,6 +56,8 @@ Additionally, this study delves into ECG signal analysis, categorizing signals i
 ## Dataset
 
 The dataset used in this project comprises clinical, demographic, and physiological parameters, along with ECG signal data categorized for analysis. Detailed information about the dataset sources and characteristics will be provided in the project documentation.
+
+![image](https://github.com/pratik3336/Heart-Failure-Prediction-using-ECG-/assets/76115015/244e9139-296c-48f9-9b43-eabebb2064d8)
 
 
 ## License
